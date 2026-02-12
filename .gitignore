@@ -1,3 +1,4 @@
 
 .SyncNode.config
 /__pycache__
+*.log
