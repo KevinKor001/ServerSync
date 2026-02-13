@@ -9,7 +9,7 @@ import argparse
 
 parser = argparse.ArgumentParser(usage="A Quick Tool to Sync Files to Local Servers over FTP", description="Idk , i had ADHD and i was too ored to look up a tool for this job , so yea")
 
-parser.add_argument("Action", help="The action you wanna perform , do Setup to setup")
+parser.add_argument("Action", help="The action you wanna perform , do Setup to setup ")
 parser.add_argument("-l","--log", type=int,help="Set the logging mode")
 arguments = parser.parse_args()
 
