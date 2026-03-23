@@ -2,3 +2,7 @@
 .SyncNode.config
 /__pycache__
 *.log
+secret_key
+sftp_debug.log
+sftp_debug.log
+*.log
